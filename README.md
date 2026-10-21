@@ -37,23 +37,23 @@ CVE 및 GitHub Security Advisory(GHSA)로 등록하고 있습니다.
 |:--:|:--|:--:|:--|
 | 🔴 Critical | [GHSA-fvpc-gmgr-qrg3](https://github.com/open5gs/open5gs/security/advisories/GHSA-fvpc-gmgr-qrg3) | **9.4** | Open5GS AUSF |
 | 🟠 High | [GHSA-cfp8-93x2-6h9x](https://github.com/open5gs/open5gs/security/advisories/GHSA-cfp8-93x2-6h9x) | **7.5** | Open5GS AMF |
-| 🟠 High | [CVE-2026-10157](https://nvd.nist.gov/vuln/detail/CVE-2026-10157) | **7.3** | Open5GS AMF |
-| 🟠 High | [CVE-2026-44473](https://nvd.nist.gov/vuln/detail/CVE-2026-44473) | **7.1** | Ella Core |
-| 🟠 High | [CVE-2026-42081](https://nvd.nist.gov/vuln/detail/CVE-2026-42081) | **7.1** | free5GC AMF |
-| 🟡 Medium | [CVE-2026-8743](https://nvd.nist.gov/vuln/detail/CVE-2026-8743) | **6.3** | Open5GS AMF |
-| 🟡 Medium | [CVE-2026-44475](https://nvd.nist.gov/vuln/detail/CVE-2026-44475) | **6.1** | Ella Core |
+| 🟠 High | [CVE-2026-10157](https://www.cve.org/CVERecord?id=CVE-2026-10157) | **7.3** | Open5GS AMF |
+| 🟠 High | [CVE-2026-44473](https://www.cve.org/CVERecord?id=CVE-2026-44473) | **7.1** | Ella Core |
+| 🟠 High | [CVE-2026-42081](https://www.cve.org/CVERecord?id=CVE-2026-42081) | **7.1** | free5GC AMF |
+| 🟡 Medium | [CVE-2026-8743](https://www.cve.org/CVERecord?id=CVE-2026-8743) | **6.3** | Open5GS AMF |
+| 🟡 Medium | [CVE-2026-44475](https://www.cve.org/CVERecord?id=CVE-2026-44475) | **6.1** | Ella Core |
 | 🟡 Medium | [GHSA-mg8r-2cvv-xq9j](https://github.com/open5gs/open5gs/security/advisories/GHSA-mg8r-2cvv-xq9j) | **5.4** | Open5GS AMF |
-| 🟢 Low | [CVE-2026-14618](https://nvd.nist.gov/vuln/detail/CVE-2026-14618) | **4.3** | Open5GS AMF |
-| 🟢 Low | [CVE-2026-44474](https://nvd.nist.gov/vuln/detail/CVE-2026-44474) | **3.7** | Ella Core |
-| 🟢 Low | [CVE-2026-42082](https://nvd.nist.gov/vuln/detail/CVE-2026-42082) | **3.7** | free5GC AMF |
-| 🟢 Low | [CVE-2026-10565](https://nvd.nist.gov/vuln/detail/CVE-2026-10565) | **3.1** | Open5GS AMF |
+| 🟢 Low | [CVE-2026-14618](https://www.cve.org/CVERecord?id=CVE-2026-14618) | **4.3** | Open5GS AMF |
+| 🟢 Low | [CVE-2026-44474](https://www.cve.org/CVERecord?id=CVE-2026-44474) | **3.7** | Ella Core |
+| 🟢 Low | [CVE-2026-42082](https://www.cve.org/CVERecord?id=CVE-2026-42082) | **3.7** | free5GC AMF |
+| 🟢 Low | [CVE-2026-10565](https://www.cve.org/CVERecord?id=CVE-2026-10565) | **3.1** | Open5GS AMF |
 
 <details>
 <summary>📌 References</summary>
 
 - [Open5GS Security Advisories](https://github.com/open5gs/open5gs/security/advisories)
 - [free5GC](https://github.com/free5gc/free5gc) · [Ella Core](https://github.com/ellanetworks/core)
-- [NVD – National Vulnerability Database](https://nvd.nist.gov/)
+- [CVE.org](https://www.cve.org/) · [NVD – National Vulnerability Database](https://nvd.nist.gov/)
 - CVSS 점수는 NVD 또는 GitHub Security Advisory에 등록된 값을 기준으로 하며, 평가 기관에 따라 점수가 다를 수 있습니다.
 
 </details>
