@@ -23,10 +23,8 @@ ICSR-KMU는 이동통신 코어망(5GC/EPC)의 시그널링 프로토콜(NGAP, N
 발견한 취약점은 책임 있는 공개(Responsible Disclosure) 절차에 따라 각 프로젝트 메인테이너에게 보고하고,
 CVE 및 GitHub Security Advisory(GHSA)로 등록하고 있습니다.
 
-- 🏫 Affiliation: <!-- 학교/학과 -->
-- 👨‍🏫 Advisor: <!-- 지도교수 -->
-- ✉️ Contact: <!-- 연구실 이메일 -->
-- 🌐 Homepage: <!-- 연구실 홈페이지 -->
+- 🏫 Affiliation: Kookmin University
+- 👨‍🏫 Advisor: Hwankuk Kim
 
 ---
 
