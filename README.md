@@ -3,7 +3,7 @@
 
 # ICSR Lab @ KMU
 
-**Information & Communication Security Research Lab**
+**Intelligent Cyber Security Research Lab**
 5G/6G 이동통신 코어망 보안 · 오픈소스 코어(Open5GS, free5GC, Ella Core) 취약점 분석 · 프로토콜 퍼징 · 침입 탐지
 
 [![Vulnerabilities](https://img.shields.io/badge/Disclosed%20Vulnerabilities-12-blue)](#-vulnerability-disclosures)
